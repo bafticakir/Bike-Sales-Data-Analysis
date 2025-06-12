@@ -98,4 +98,4 @@ Pie chart illustrating total revenue split by customer age group.
 
 ---
 
-> Created with 🔥 by **Bafti Çakır**
+> Created 🔥 by **Bafti Çakır**
